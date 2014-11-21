@@ -1,0 +1,14 @@
+#gitignore
+
+#dir
+cocos2d/
+proj.android/libs/
+proj.android/obj/
+proj.android/bin/
+proj.win32/Debug.win32/
+
+#file
+*.sdf
+*.user
+*.filters
+
